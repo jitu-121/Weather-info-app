@@ -1,6 +1,4 @@
-# Weather App 
 
-A small client-side weather app demo with a vibrant UI (animated gradients, glassmorphism, neon accents). This project is purely front-end — open `index.html` to preview.
 
 **What’s included**
 - `index.html` — main page and UI
