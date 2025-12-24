@@ -23,7 +23,7 @@ Or use the VS Code Live Server extension to preview with a local dev server.
 - Enter a city name in the input and click `Get Weather`.
 - If the app is wired to an API key (in `script.js`), it will request weather data and populate the card.
 
-**Customization tips**
+**Customization tips*
 - Colors & mood: edit `styles.css` — search for gradients, `.blob` colors, and `#get-weather-btn` to quickly change the palette.
 - Typography: modify the Google Fonts import at the top of `styles.css` to swap fonts.
 - Add icons: you can place SVGs inside `.weather-icon` or use an icon font (e.g., Weather Icons or Font Awesome).
