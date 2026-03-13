@@ -56,10 +56,9 @@ document.addEventListener('DOMContentLoaded', () => {
        
     }
     function displayError(message) {
-        weatherinfo.style.display = 'none';
+        weatherinfo.classList.add('hidden');
+        errorMessage.textContent = message;
         errorMessage.classList.remove('hidden');
-        
-        
     }
 
 
